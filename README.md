@@ -1,6 +1,6 @@
 ## Hi there, I'm Sajal Ruhela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a pre-final ECE undergraduate from IIIT Una. I am a Competitive Programmer and Android Developer!
+## I'm a pre-final year ECE undergraduate from IIIT Una. I am a Competitive Programmer and Android Developer!
 
 - 🌱 I’m currently learning about **Android Development** and **Data Structures and Algorithms**
 
