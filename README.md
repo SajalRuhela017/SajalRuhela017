@@ -25,7 +25,7 @@
 
 ### 👨‍💻Connect with me
 
-[<img align="left" alt="f | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="f | LinkedIn" <a href="https://leetcode.com/rhsajal_017/" target="_blank"> width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="f | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
