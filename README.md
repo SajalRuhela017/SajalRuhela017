@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **C/C++, DSA, Competitive Programming, Kotlin, Android Development**
 
-- 📫 How to reach me **ruhela.sajal017@gmail.com**
+- 📫 You can reach me at **ruhela.sajal017@gmail.com**
 
-- 📄 Know about other details in my **[Resume](https://bit.ly/3UqvQWI)**
+- 📄 Explore me **[Resume](https://bit.ly/3UqvQWI)**
 
 ### 👦Stats:
 
