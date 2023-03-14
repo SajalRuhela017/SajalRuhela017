@@ -104,7 +104,7 @@
   <img src="https://profile-counter.glitch.me/SajalRuhela017/count.svg" />
 </p>
 
-![Snake animation](https://github.com/SajalRuhela017/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SajalRuhela017/SajalRuhela017/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 SajalRuhela017/SajalRuhela017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
