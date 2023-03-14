@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SajalRuhela017/](https://github.com/SajalRuhela017/)
 
-- 💬 Ask me about **C/C++, DSA, Competitive Programming, Kotlin, Android Development**
+- 💬 Ask me about **C/C++, DSA, Competitive Programming, Kotlin, Android Development, Web Development**
 
 - 📫 You can reach me at **ruhela.sajal017@gmail.com**
 
@@ -26,7 +26,6 @@
 ### 👨‍💻Connect with me
 
 [<img align="left" alt="f | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="f | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
 
@@ -47,16 +46,31 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 	</a>
 	<a href="https://kotlinlang.org/" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="40" height="40"/>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/>
 	</a>
-	<a href="https://dart.dev" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+		<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/>
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+		<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="40" height="40"/>
+	</a>
+	<a href="https://devdocs.io/javascript/" target="_blank">
+		<img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="javascript" width="40" height="40"/>
+	</a>
+	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+		<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="csharp" width="40" height="40"/>
+	</a>
+	<a href="https://docs.oracle.com/en/java/" target="_blank">
+		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/>
 	</a>
 	<a href="https://firebase.google.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 	</a>
 	<a href="https://flutter.dev" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+	</a>
+	<a href="https://dart.dev" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
