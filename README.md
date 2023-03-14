@@ -2,7 +2,7 @@
 
 ## I'm a pre-final year ECE undergraduate from IIIT Una. I am a Competitive Programmer and Android Developer!
 
-- 🌱 I’m currently learning about **Android Development** and **Data Structures and Algorithms**
+- 🌱 I’m currently putting my efforts to **Data Structures and Algorithms**, **Android Development** and **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SajalRuhela017/](https://github.com/SajalRuhela017/)
 
@@ -104,7 +104,7 @@
   <img src="https://profile-counter.glitch.me/SajalRuhela017/count.svg" />
 </p>
 
-![Snake animation](https://github.com/SajalRuhela017/SajalRuhela017/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SajalRuhela017/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 SajalRuhela017/SajalRuhela017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
