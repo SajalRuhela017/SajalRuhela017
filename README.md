@@ -27,7 +27,6 @@
 
 [<img align="left" alt="f | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-<br />
 
 ![GitHub metrics](https://metrics.lecoq.io/SajalRuhela017) <br>
 
