@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently putting my efforts to **Data Structures and Algorithms**, **Android Development** and **Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SajalRuhela017/].(https://github.com/SajalRuhela017/)
+- 👨‍💻 All of my projects are available at [https://github.com/SajalRuhela017/](https://github.com/SajalRuhela017/).
 
 - 💬 Ask me about **C/C++, DSA, Competitive Programming, Kotlin, Android Development, Web Development.**
 
