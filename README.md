@@ -2,15 +2,15 @@
 
 ## I'm a pre-final year ECE undergraduate from IIIT Una. I am a Competitive Programmer and Android Developer!
 
-- 🌱 I’m currently putting my efforts to **Data Structures and Algorithms**, **Android Development** and **Web Development**
+- 🌱 I’m currently putting my efforts to **Data Structures and Algorithms**, **Android Development** and **Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SajalRuhela017/](https://github.com/SajalRuhela017/)
+- 👨‍💻 All of my projects are available at [https://github.com/SajalRuhela017/].(https://github.com/SajalRuhela017/)
 
-- 💬 Ask me about **C/C++, DSA, Competitive Programming, Kotlin, Android Development, Web Development**
+- 💬 Ask me about **C/C++, DSA, Competitive Programming, Kotlin, Android Development, Web Development.**
 
-- 📫 You can reach me at **ruhela.sajal017@gmail.com**
+- 📫 You can reach me at **ruhela.sajal017@gmail.com**.
 
-- 📄 Explore me **[Resume](https://bit.ly/3UqvQWI)**
+- 📄 Explore me **[Resume](https://bit.ly/3UqvQWI)**.
 
 ### 👦Stats:
 
