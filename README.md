@@ -10,8 +10,6 @@
 
 - 📫 You can reach me at **ruhela.sajal017@gmail.com**.
 
-- 📄 Explore me **[Resume](https://bit.ly/3UqvQWI)**.
-
 ### 👦Stats:
 
 <div align="left">
